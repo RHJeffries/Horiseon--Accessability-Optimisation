@@ -20,7 +20,7 @@ body {
     font-size: 48px;
 }
 
-/* change shade of seo in logo so it's slightly darker, rest remains white*/
+/* change shade of seo in text so it's slightly darker, rest remains white*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -51,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/*background image of marketing meeting*/
 .hero {
     height: 800px;
     width: 100%;
